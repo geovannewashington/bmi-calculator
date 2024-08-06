@@ -31,7 +31,7 @@ To run this project, you will need:
     cd bmi-calculator
     ```
 
-3. Open `index.html` in your web browser.
+3. Open `index.htm` in your web browser.
 
 ## Usage
 
