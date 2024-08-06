@@ -3,7 +3,7 @@
 
 A Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript. Users can input their personal details to calculate their BMI.
 
-![App image](./images/bmi.png)
+<img src="./images/bmi.png" alt="App Image" style="widt=50px">
 
 ## Features
 
